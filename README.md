@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I’m **Beatrice Kamunya**, a dynamic and result
 
 ## 📄 Download My CV
 
-**👉 [Download CV (PDF)](./Beatrice_Kamunya_CustomerService_CV.pdf)**
+**👉 [Download CV (PDF)](./Beatrice_Kamunya_Customer_Service_CV_2025.pdf.pdf)**
 
 ---
 
