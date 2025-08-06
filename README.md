@@ -67,6 +67,8 @@ Hear my short voice message to recruiters:
   <a class="LI-simple-link" href="https://www.linkedin.com/in/beatricekamunya?trk=profile-badge">Beatrice Kamunya</a>
 </div>
 
+## My Creative Photography
+Explore my conceptual & meaningful photography on ClickASnap: [Click Here](https://share.google/9xxYGdRmy0MatKFhN)
 
 
 _Thank you for visiting my GitHub!_
