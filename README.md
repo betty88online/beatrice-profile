@@ -67,7 +67,8 @@ Hear my short voice message to recruiters:
   <a class="LI-simple-link" href="https://www.linkedin.com/in/beatricekamunya?trk=profile-badge">Beatrice Kamunya</a>
 </div>
 
-Add ClickASnap portfolio link: https://share.google/lJgNQ6t7EDm1Do5yX
+Add ClickASnap portfolio link: https://clickasnap.com/profile/ndutabeatrice_450
+
 
 
 
