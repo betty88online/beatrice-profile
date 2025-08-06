@@ -2,7 +2,20 @@
 
 Welcome to my GitHub portfolio! I’m **Beatrice Kamunya**, a dynamic and results-driven **Customer Service & Support Specialist** with over 4 years of hands-on experience in call centers, help desk support, hospitality, and security operations. I am passionate about delivering outstanding client satisfaction, managing CRM systems, and resolving issues with empathy and precision.
 
-
+<div class="linkedin-badge">
+  <div class="LI-profile-badge" 
+       data-version="v1" 
+       data-size="medium" 
+       data-locale="en_US" 
+       data-type="horizontal" 
+       data-theme="dark" 
+       data-vanity="beatricekamunya">
+    <a class="LI-simple-link" 
+       href="https://www.linkedin.com/in/beatricekamunya?trk=profile-badge">
+       Beatrice Kamunya
+    </a>
+  </div>
+</div>
 ## 📄 Download My CVs
 
 **👉 [Download Main CV (PDF)](./Beatrice_Kamunya_Customer_Service_CV_2025.pdf)**  
