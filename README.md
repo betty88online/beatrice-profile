@@ -17,13 +17,11 @@ Welcome to my GitHub portfolio! I’m **Beatrice Kamunya**, a dynamic and result
   </div>
 </div>
 
-  
-<a href="./Beatrice_Kamunya_Customer_Service_CV_2025.pdf" target="_blank" style="padding: 10px 20px; background-color: #0078D4; color: white; border-radius: 5px; text-decoration: none;">
-  Download My CV (PDF)
-</a>
-## 📄 Download My CV
 
-**👉 [Download My Customer Service CV (PDF)](./Beatrice_Kamunya_Customer_Service_CV_2025.pdf)**
+<a href="Beatrice_Kamunya_Customer_Service_CV_2025.pdf" target="_blank" download>
+  Download Beatrice Kamunya Customer Service CV (2025)
+</a>
+
 
 ## 🌐 My Linktree
 
