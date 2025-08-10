@@ -1,158 +1,72 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Beatrice Kamunya – Customer Service & Support Specialist</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #121212;
-      color: #eee;
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-    }
-    a {
-      color: #1e90ff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .btn {
-      display: inline-block;
-      padding: 10px 18px;
-      margin: 10px 0;
-      background-color: #0078D4;
-      color: white;
-      border-radius: 6px;
-      font-weight: bold;
-      text-align: center;
-    }
-    .btn:hover {
-      background-color: #005a9e;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-    h2 {
-      border-bottom: 2px solid #444;
-      padding-bottom: 6px;
-      margin-bottom: 12px;
-    }
-    .shield {
-      margin-right: 8px;
-      vertical-align: middle;
-    }
-    ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    ul li {
-      margin-bottom: 6px;
-    }
-    .linkedin-badge {
-      margin-top: 40px;
-      text-align: center;
-    }
-    .linkedin-icon {
-      margin-top: 20px;
-      text-align: center;
-    }
-    .linkedin-icon img {
-      width: 50px;
-      height: 50px;
-      filter: invert(100%);
-    }
-  </style>
-</head>
-<body>
+    
 
-  <h1>👩🏽‍💼 Beatrice Kamunya – Customer Service & Support Specialist</h1>
+# 👩🏽‍💼 Beatrice Kamunya – Customer Service & Support Specialist
 
-  <p>
-    Welcome to my GitHub portfolio! I’m <strong>Beatrice Kamunya</strong>, a dynamic and results-driven 
-    <strong>Customer Service & Support Specialist</strong> with over 4 years of hands-on experience in call centers, help desk support, hospitality, and security operations. 
-    I am passionate about delivering outstanding client satisfaction, managing CRM systems, and resolving issues with empathy and precision.
-  </p>
+Welcome to my GitHub portfolio! I’m **Beatrice Kamunya**, a dynamic and results-driven **Customer Service & Support Specialist** with over 4 years of hands-on experience in call centers, help desk support, hospitality, and security operations. I am passionate about delivering outstanding client satisfaction, managing CRM systems, and resolving issues with empathy and precision.
 
-  <div class="linkedin-badge">
-    <!-- Official LinkedIn Badge Widget -->
-    <div class="LI-profile-badge" 
-         data-version="v1" 
-         data-size="medium" 
-         data-locale="en_US" 
-         data-type="horizontal" 
-         data-theme="dark" 
-         data-vanity="beatricekamunya">
-      <a class="LI-simple-link" 
-         href="https://www.linkedin.com/in/beatricekamunya?trk=profile-badge" target="_blank" rel="noopener noreferrer">
-         Beatrice Kamunya
-      </a>
-    </div>
-  </div>
+---
 
-  <div class="section">
-    <h2>📄 Download My CV</h2>
-    <a class="btn" href="./Kamunya_Beatrice_Customer_Service_CV_2025.pdf" target="_blank" download>
-      Download CV (PDF)
-    </a>
-  </div>
+## 📄 Download My CV
 
-  <div class="section">
-    <h2>🌐 My Linktree</h2>
-    <p><a href="https://linktr.ee/ndutabeatrice450" target="_blank" rel="noopener noreferrer">🔗 Visit My Linktree</a></p>
-  </div>
+[Download Beatrice Kamunya Customer Service CV (2025)](./Kamunya_Beatrice_Customer_Service_CV_2025.pdf)
 
-  <div class="section">
-    <h2>🎥 Portfolio Video</h2>
-    <p><a href="https://www.dropbox.com/scl/fi/6w5z8v18aps5kthk4y9tj/Brown-Minimal-Creative-Portofolio-Presentation_20250722_172014_0002.mp4?rlkey=qmthao27kc99px2lmqwwz7u0b&st=8vpzhb8y&dl=0" target="_blank" rel="noopener noreferrer">🎬 Watch My Portfolio Video</a></p>
-  </div>
+---
 
-  <div class="section">
-    <h2>🎙 Voice Introduction</h2>
-    <p><a href="https://www.dropbox.com/scl/fi/h18ihhymgb4jo5owbh91a/VN20250724_200649.mp4?rlkey=4vwvp9ol31zr0c2ocs206wdds&raw=1" target="_blank" rel="noopener noreferrer">🔊 Play Voice Intro</a></p>
-  </div>
+## 🌐 My Linktree
 
-  <div class="section">
-    <h2>🧰 Tools & Skills</h2>
-    <img class="shield" src="https://img.shields.io/badge/CRM-Expert-blue" alt="CRM Badge" />
-    <img class="shield" src="https://img.shields.io/badge/Help%20Desk-Specialist-brightgreen" alt="Help Desk Badge" />
-    <img class="shield" src="https://img.shields.io/badge/Customer%20Support-Experienced-orange" alt="Customer Support Badge" />
-    <img class="shield" src="https://img.shields.io/badge/Call%20Center-4+%20Years-yellow" alt="Call Center Badge" />
-    <img class="shield" src="https://img.shields.io/badge/Microsoft%20Office-Proficient-blueviolet" alt="Microsoft Office Badge" />
-    <img class="shield" src="https://img.shields.io/badge/Conflict%20Resolution-Advanced-success" alt="Conflict Resolution Badge" />
-  </div>
+📌 All my important links in one place:  
+🔗 [Visit My Linktree](https://linktr.ee/ndutabeatrice450)
 
-  <div class="section">
-    <h2>📈 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=betty88online&show_icons=true&theme=dark" alt="Beatrice's GitHub Stats" style="width:100%;" />
-  </div>
+---
 
-  <div class="section">
-    <h2>📬 Contact Me</h2>
-    <ul>
-      <li><strong>Location:</strong> Dubai, UAE</li>
-      <li><strong>Phone:</strong> +971 55 487 8713</li>
-      <li><strong>Email:</strong> <a href="mailto:ndutabeatrice450@gmail.com">ndutabeatrice450@gmail.com</a></li>
-      <li><strong>LinkedIn:</strong> <a href="https://ae.linkedin.com/in/beatricekamunya" target="_blank" rel="noopener noreferrer">https://ae.linkedin.com/in/beatricekamunya</a></li>
-    </ul>
-  </div>
+## 🎥 Portfolio Video
 
-  <div class="linkedin-icon">
-    <!-- Mobile-friendly LinkedIn icon -->
-    <a href="https://www.linkedin.com/in/beatricekamunya" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
-    </a>
-  </div>
+A quick presentation of my experience and customer service approach:  
+🎬 [Watch My Portfolio Video](https://www.dropbox.com/scl/fi/6w5z8v18aps5kthk4y9tj/Brown-Minimal-Creative-Portofolio-Presentation_20250722_172014_0002.mp4?rlkey=qmthao27kc99px2lmqwwz7u0b&st=8vpzhb8y&dl=0)
 
-  <p style="margin-top: 40px; font-style: italic; text-align: center;">
-    _Thank you for visiting my GitHub!_
-  </p>
+---
 
-  <!-- LinkedIn Badge script (required for official badge) -->
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+## 🎙 Voice Introduction
 
-</body>
-</html>
+Hear my short voice message to recruiters:  
+🔊 [Play Voice Intro](https://www.dropbox.com/scl/fi/h18ihhymgb4jo5owbh91a/VN20250724_200649.mp4?rlkey=4vwvp9ol31zr0c2ocs206wdds&raw=1)
+
+---
+
+## 🧰 Tools & Skills
+
+![CRM](https://img.shields.io/badge/CRM-Expert-blue)  
+![Help Desk](https://img.shields.io/badge/Help%20Desk-Specialist-brightgreen)  
+![Customer Service](https://img.shields.io/badge/Customer%20Support-Experienced-orange)  
+![Call Center](https://img.shields.io/badge/Call%20Center-4+%20Years-yellow)  
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-Proficient-blueviolet)  
+![Conflict Resolution](https://img.shields.io/badge/Conflict%20Resolution-Advanced-success)
+
+---
+
+## 📈 GitHub Stats
+
+[![Beatrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=betty88online&show_icons=true&theme=dark)](https://github.com/betty88online)
+
+---
+
+## 📬 Contact Me
+
+📍 **Dubai, UAE**  
+📞 **+971 55 487 8713**  
+📧 **[ndutabeatrice450@gmail.com](mailto:ndutabeatrice450@gmail.com)**  
+🔗 **[LinkedIn](https://ae.linkedin.com/in/beatricekamunya)**
+
+---
+
+## 🔗 LinkedIn Profile
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/beatricekamunya)
+
+---
+
+Add ClickASnap portfolio link: [https://clickasnap.com/profile/ndutabeatrice_450](https://clickasnap.com/profile/ndutabeatrice_450)
+
+---
+
+_Thank you for visiting my GitHub!_
