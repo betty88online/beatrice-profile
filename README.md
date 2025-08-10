@@ -1,5 +1,3 @@
-    
-
 # <img src="./beatrice_photo.png" alt="Beatrice Kamunya" style="width:150px; border-radius:50%; display:block; margin-bottom:20px;" /> Beatrice Kamunya – Customer Service & Support Specialist
 
 Welcome to my GitHub portfolio! I’m **Beatrice Kamunya**, a dynamic and results-driven **Customer Service & Support Specialist** with over 4 years of hands-on experience in call centers, help desk support, hospitality, and security operations. I am passionate about delivering outstanding client satisfaction, managing CRM systems, and resolving issues with empathy and precision.
