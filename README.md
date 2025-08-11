@@ -2,46 +2,44 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Beatrice Kamunya – Customer Service & Support Specialist</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       max-width: 720px;
-      margin: 20px auto;
-      padding: 0 15px;
+      margin: 40px auto;
+      padding: 0 20px;
       color: #222;
       background: #f9f9f9;
     }
     img.profile-photo {
-      width: 120px;
+      width: 150px;
       border-radius: 50%;
       display: block;
       margin: 0 auto 20px auto;
     }
     h1 {
-      font-size: 24px;
-      margin-bottom: 10px;
+      font-size: 28px;
+      margin-bottom: 8px;
       text-align: center;
     }
     h2 {
       margin-top: 30px;
-      font-size: 20px;
+      font-size: 22px;
       border-bottom: 2px solid #ccc;
       padding-bottom: 6px;
     }
     a.button-link {
-      display: block;
+      display: inline-block;
       background: #1a73e8;
       color: white;
-      padding: 12px 20px;
+      padding: 10px 18px;
       margin: 10px 0;
       border-radius: 5px;
       text-decoration: none;
       font-weight: bold;
       text-align: center;
-      max-width: 100%;
-      box-sizing: border-box;
     }
     a.button-link:hover {
       background: #155ab6;
@@ -55,37 +53,11 @@
     ul {
       padding-left: 20px;
     }
-    .skills img.shield {
-      margin: 4px 6px 4px 0;
-      vertical-align: middle;
-      max-width: 80px;
-      height: auto;
-    }
-    .github-stats img {
-      width: 100%;
-      max-width: 600px;
-      margin: 10px auto;
-      display: block;
-      border-radius: 10px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    }
     audio {
       width: 100%;
       max-width: 600px;
       display: block;
       margin: 10px auto;
-    }
-    @media (max-width: 480px) {
-      h1 {
-        font-size: 20px;
-      }
-      h2 {
-        font-size: 18px;
-      }
-      a.button-link {
-        padding: 10px 15px;
-        font-size: 16px;
-      }
     }
   </style>
 </head>
@@ -119,25 +91,10 @@
     <source src="https://www.dropbox.com/scl/fi/4x88gzkjggmu56mpl2rak/BeatriceKamunya_SecurityCustomerServiceIntro.mp4.mp3?raw=1" type="audio/mpeg" />
     Your browser does not support the audio element.
   </audio>
-  <div class="small" style="text-align:center;">
+  <div class="small">
     File: BeatriceKamunya_SecurityCustomerServiceIntro.mp3  
     <br />
     <a href="https://www.dropbox.com/scl/fi/4x88gzkjggmu56mpl2rak/BeatriceKamunya_SecurityCustomerServiceIntro.mp4.mp3?raw=1" target="_blank" download>Download Audio</a>
-  </div>
-
-  <h2>Tools & Skills</h2>
-  <div class="skills" style="text-align:center;">
-    <img class="shield" src="https://img.shields.io/badge/CRM-Expert-blue" alt="CRM Badge" />
-    <img class="shield" src="https://img.shields.io/badge/Help%20Desk-Specialist-brightgreen" alt="Help Desk Badge" />
-    <img class="shield" src="https://img.shields.io/badge/Customer%20Support-Experienced-orange" alt="Customer Support Badge" />
-    <img class="shield" src="https://img.shields.io/badge/Call%20Center-4+%20Years-yellow" alt="Call Center Badge" />
-    <img class="shield" src="https://img.shields.io/badge/Microsoft%20Office-Proficient-blueviolet" alt="Microsoft Office Badge" />
-    <img class="shield" src="https://img.shields.io/badge/Conflict%20Resolution-Advanced-success" alt="Conflict Resolution Badge" />
-  </div>
-
-  <h2>GitHub Stats</h2>
-  <div class="github-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=betty88online&show_icons=true&theme=dark" alt="Beatrice's GitHub Stats" />
   </div>
 
   <h2>Contact Me</h2>
