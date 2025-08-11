@@ -25,10 +25,6 @@ A quick presentation of my experience and customer service approach:
 ## 🎙 Voice Introduction  
 Click play to listen to my 1–2 minute introduction about my experience:
 
-<audio controls>
-  <source src="./BeatriceKamunya_SecurityCustomerServiceIntro.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
 
 [Click here to download or play the audio file](./BeatriceKamunya_SecurityCustomerServiceIntro.mp3)
 
@@ -43,7 +39,12 @@ Click play to listen to my 1–2 minute introduction about my experience:
 ![CRM](https://img.shields.io/badge/CRM-Expert-blue)  
 ![Help Desk](https://img.shields.io/badge/Help%20Desk-Specialist-brightgreen)  
 ![Customer Support](https://img.shields.io/badge/Customer%20Support-Experienced-orange)  
-![Call Center](https://img.shields.io/badge/Call%20Center-4+%20Years-yellow)  
+![Call Center](https://img.shields.io/badge/Call%20Center-4+%2<audio controls>
+  <source src="https://raw.githubusercontent.com/username/repo/main/BeatriceKamunya_SecurityCustomerServiceIntro.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+[Click here to download or play the audio file](https://raw.githubusercontent.com/username/repo/main/BeatriceKamunya_SecurityCustomerServiceIntro.mp3)0Years-yellow)  
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-Proficient-blueviolet)  
 ![Conflict Resolution](https://img.shields.io/badge/Conflict%20Resolution-Advanced-success)
 
