@@ -22,9 +22,15 @@ A quick presentation of my experience and customer service approach:
 [🎬 Watch My Portfolio Video](https://www.dropbox.com/scl/fi/6w5z8v18aps5kthk4y9tj/Brown-Minimal-Creative-Portofolio-Presentation_20250722_172014_0002.mp4?rlkey=qmthao27kc99px2lmqwwz7u0b&st=8vpzhb8y&dl=0)
 
 ---
+## 🎙 Voice Introduction  
+Click play to listen to my 1–2 minute introduction about my experience:
 
-## 🎙 Voice Introduction
-Click play to listen to my 1–2 minute introduction about my experience:  
+<audio controls>
+  <source src="./BeatriceKamunya_SecurityCustomerServiceIntro.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+[Click here to download or play the audio file](./BeatriceKamunya_SecurityCustomerServiceIntro.mp3)
 
 <audio controls>
   <source src="./BeatriceKamunya_SecurityCustomerServiceIntro.mp3" type="audio/mpeg">
