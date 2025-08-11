@@ -34,6 +34,55 @@ Hear my short voice message to recruiters:
 
 ---
 
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Beatrice Kamunya — Intro</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background: #f7f8fb;
+      color: #222;
+    }
+    .card {
+      background: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+      max-width: 720px;
+      width: 100%;
+      text-align: center;
+    }
+    h1 { margin: 0 0 8px; font-size: 18px; }
+    p { margin: 0 0 16px; color: #555; }
+    audio { width: 100%; outline: none; }
+    .small { font-size: 13px; color:#888; margin-top:10px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Beatrice Kamunya — Interview Intro</h1>
+    <p>Click play to listen to my 1–2 minute introduction about my security and customer service experience.</p>
+
+    <!-- Replace the URL below with your GitHub raw file URL -->
+    <audio controls preload="metadata">
+      <source src="RAW_FILE_URL_HERE" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+
+    <div class="small">File: BeatriceKamunya_SecurityCustomerServiceIntro.mp3</div>
+  </div>
+</body>
+</html>
+
 ## 🧰 Tools & Skills
 
 ![CRM](https://img.shields.io/badge/CRM-Expert-blue)  
