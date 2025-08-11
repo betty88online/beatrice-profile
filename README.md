@@ -26,10 +26,11 @@ A quick presentation of my experience and customer service approach:
 ## 🎙 Voice Introduction
 Click play to listen to my 1–2 minute introduction about my security and customer service experience:  
 
-<audio controls>
-  <source src="RAW_FILE_URL_HERE" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+## 🎥 Security & Customer Service Introduction
+
+<video controls src="./BeatriceKamunya_SecurityCustomerServiceIntro.mp4" width="640"></video>
+
+*This short video highlights my combined experience in security and customer service.*
 
 ---
 
