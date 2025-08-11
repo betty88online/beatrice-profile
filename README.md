@@ -17,12 +17,11 @@
       width: 150px;
       border-radius: 50%;
       display: block;
-      margin: 0 auto 20px auto;
+      margin-bottom: 20px;
     }
     h1 {
       font-size: 28px;
       margin-bottom: 8px;
-      text-align: center;
     }
     h2 {
       margin-top: 30px;
@@ -39,7 +38,6 @@
       border-radius: 5px;
       text-decoration: none;
       font-weight: bold;
-      text-align: center;
     }
     a.button-link:hover {
       background: #155ab6;
@@ -48,16 +46,20 @@
       font-size: 13px;
       color: #666;
       margin-top: 6px;
-      text-align: center;
     }
     ul {
       padding-left: 20px;
     }
-    audio {
+    .skills img.shield {
+      margin: 4px 6px 4px 0;
+      vertical-align: middle;
+    }
+    .github-stats img {
       width: 100%;
       max-width: 600px;
-      display: block;
-      margin: 10px auto;
+      margin-top: 10px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     }
   </style>
 </head>
@@ -83,29 +85,15 @@
   <a href="https://www.dropbox.com/scl/fi/6w5z8v18aps5kthk4y9tj/Brown-Minimal-Creative-Portofolio-Presentation_20250722_172014_0002.mp4?rlkey=qmthao27kc99px2lmqwwz7u0b&st=8vpzhb8y&dl=0" target="_blank" rel="noopener noreferrer" class="button-link">Watch My Portfolio Video</a>
 
   <h2>Voice Introduction</h2>
-  <p style="text-align:center;">
+  <p>
     Click play to listen to my 1–2 minute introduction about my experience, or
     <a href="https://www.dropbox.com/scl/fi/4x88gzkjggmu56mpl2rak/BeatriceKamunya_SecurityCustomerServiceIntro.mp4.mp3?raw=1" target="_blank" rel="noopener noreferrer">click here to open/download the audio file</a>.
   </p>
-  <audio controls preload="metadata">
+  <audio controls preload="metadata" style="width: 100%; max-width: 600px;">
     <source src="https://www.dropbox.com/scl/fi/4x88gzkjggmu56mpl2rak/BeatriceKamunya_SecurityCustomerServiceIntro.mp4.mp3?raw=1" type="audio/mpeg" />
     Your browser does not support the audio element.
   </audio>
   <div class="small">
     File: BeatriceKamunya_SecurityCustomerServiceIntro.mp3  
     <br />
-    <a href="https://www.dropbox.com/scl/fi/4x88gzkjggmu56mpl2rak/BeatriceKamunya_SecurityCustomerServiceIntro.mp4.mp3?raw=1" target="_blank" download>Download Audio</a>
-  </div>
-
-  <h2>Contact Me</h2>
-  <ul>
-    <li><strong>Location:</strong> Dubai, UAE</li>
-    <li><strong>Phone:</strong> +971 55 487 8713</li>
-    <li><strong>Email:</strong> <a href="mailto:ndutabeatrice450@gmail.com">ndutabeatrice450@gmail.com</a></li>
-    <li><strong>LinkedIn:</strong> <a href="https://ae.linkedin.com/in/beatricekamunya" target="_blank" rel="noopener noreferrer">beatricekamunya</a></li>
-  </ul>
-
-  <p style="text-align:center;">Thank you for visiting my portfolio!</p>
-
-</body>
-</html>
+    <a href="https://www.dropbox.com/scl/fi/4x88gzkjggmu56mpl2rak/Be
