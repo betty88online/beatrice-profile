@@ -6,7 +6,8 @@ Welcome to my portfolio! I’m **Beatrice Kamunya**, a dynamic and results-drive
 
 ## Download My CV
 
-[Download Beatrice Kamunya Customer Service CV (2025)](./BeatriceKamunya_CustomerService_CV_2025.pdf)
+[Download Beatrice Kamunya Customer Service CV (Aug 2025)](./BeatriceKamunya_CustomerService_CV_Aug2025.pdf)  
+[View CV on GitHub](https://github.com/betty88online/beatrice-profile/blob/main/BeatriceKamunya_CustomerService_CV_Aug2025.pdf)
 
 ## My Linktree
 
