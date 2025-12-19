@@ -15,25 +15,21 @@
       color: #222;
       line-height: 1.6;
     }
-
     img.profile-photo {
       width: 160px;
       border-radius: 50%;
       margin-bottom: 20px;
     }
-
     h1 {
       font-size: 28px;
       margin-bottom: 10px;
     }
-
     h2 {
       margin-top: 35px;
       font-size: 22px;
       border-bottom: 2px solid #ccc;
       padding-bottom: 6px;
     }
-
     a.button-link {
       display: inline-block;
       background-color: #1a73e8;
@@ -44,20 +40,16 @@
       text-decoration: none;
       font-weight: bold;
     }
-
     a.button-link:hover {
       background-color: #155ab6;
     }
-
     ul {
       padding-left: 20px;
     }
-
     .skills img {
       margin: 4px 6px 4px 0;
       vertical-align: middle;
     }
-
     .github-stats img {
       width: 100%;
       max-width: 600px;
@@ -65,7 +57,6 @@
       border-radius: 10px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     }
-
     .small {
       font-size: 13px;
       color: #666;
@@ -89,7 +80,6 @@
 
   <h2>Download My CV</h2>
 
-  <!-- Dubai CV -->
   <a class="button-link"
      href="https://github.com/betty88online/beatrice-profile/raw/main/Beatrice_Kamunya_Customer_Service_Dubai.pdf"
      download>
@@ -99,10 +89,10 @@
   <a class="button-link"
      href="https://github.com/betty88online/beatrice-profile/blob/main/Beatrice_Kamunya_Customer_Service_Dubai.pdf"
      target="_blank" rel="noopener noreferrer">
-    View Dubai CV on GitHub
+    View CV on GitHub
   </a>
 
-  <!-- UAE Expert CV -->
+  <!-- ADDED CV (ONLY CHANGE) -->
   <a class="button-link"
      href="https://github.com/betty88online/beatrice-profile/raw/main/Beatrice_Kamunya_Customer_Service_Expert_UAE.pdf"
      download>
@@ -156,3 +146,26 @@
     <img src="https://img.shields.io/badge/Customer%20Support-Experienced-orange" alt="Customer Support">
     <img src="https://img.shields.io/badge/Call%20Center-4+%20Years-yellow" alt="Call Center">
     <img src="https://img.shields.io/badge/Microsoft%20Office-Proficient-blueviolet" alt="Microsoft Office">
+    <img src="https://img.shields.io/badge/Conflict%20Resolution-Advanced-success" alt="Conflict Resolution">
+  </div>
+
+  <h2>GitHub Stats</h2>
+  <div class="github-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=betty88online&show_icons=true&theme=dark"
+         alt="Beatrice's GitHub Stats">
+  </div>
+
+  <h2>Contact Me</h2>
+  <ul>
+    <li><strong>Location:</strong> Dubai, UAE</li>
+    <li><strong>Phone:</strong> +971 55 487 8713</li>
+    <li><strong>Email:</strong> <a href="mailto:ndutabeatrice450@gmail.com">ndutabeatrice450@gmail.com</a></li>
+    <li><strong>LinkedIn:</strong>
+      <a href="https://ae.linkedin.com/in/beatricekamunya" target="_blank">beatricekamunya</a>
+    </li>
+  </ul>
+
+  <p><strong>Thank you for visiting my portfolio!</strong></p>
+
+</body>
+</html>
