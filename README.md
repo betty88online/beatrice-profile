@@ -1,6 +1,6 @@
 # Beatrice Kamunya – Customer Service & Support Specialist
 
-![Beatrice Kamunya](./new_photo.png)
+![Beatrice Kamunya](./Beatrice_Kamunya_Passport_Photo.jpg)
 
 Welcome to my portfolio! I’m **Beatrice Kamunya**, a dynamic and results-driven Customer Service & Support Specialist with over 4 years of hands-on experience in call centers, help desk support, hospitality, and security operations. I am passionate about delivering outstanding client satisfaction, managing CRM systems, and resolving issues with empathy and precision.
 
